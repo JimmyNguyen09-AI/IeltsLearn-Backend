@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3j1HuxjEbY4=",
+  "success": true,
+  "projectFilePath": "/home/jimmynguyen/CodeSpace/DevSpace/IeltsBackend/Ielts.Api/Ielts.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/jimmynguyen/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/home/jimmynguyen/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
